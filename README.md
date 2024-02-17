@@ -1,2 +1,1 @@
-# robotik_smantu_suro_cup
-Coding Robot suro cup
+![ROBOTIK SMANTU](image/title_robotik.jpg)
