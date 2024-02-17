@@ -1,1 +1,1 @@
-![ROBOTIK SMANTU](image/title_robotik.png)
+![ROBOTIK SMANTU](/image/title_robotik.png)
